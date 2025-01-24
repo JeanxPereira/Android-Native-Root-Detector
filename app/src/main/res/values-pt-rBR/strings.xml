@@ -18,27 +18,27 @@
     <string name="color_indigo">Índigo</string>
     <string name="DayNight">Modo Escuro</string>
     <string name="device_info">%s (%s)</string>
-    <string name="the_environment_is_normal">O ambiente é normal</string>
-    <string name="the_environment_is_abnormal">O ambiente é anormal</string>
+    <string name="the_environment_is_normal">O ambiente está normal</string>
+    <string name="the_environment_is_abnormal">O ambiente está anormal</string>
     <string name="description_normal">Nenhuma modificação no ambiente foi detectada.</string>
     <string name="description_abnormal">Modificações no ambiente foram detectadas.</string>
     <string name="settings">Configurações</string>
-    <string name="title_activity_settings">ConfiguraçõesActivity</string>
+    <string name="title_activity_settings">SettingsActivity</string>
 
     <!-- Strings de Preferências -->
     <string name="title_general">Geral</string>
     <string name="pref_telemetry">Desativar Telemetria</string>
     <string name="pref_telemetry_on">A telemetria Sentry está desativada</string>
-    <string name="pref_telemetry_off">Isto desativará a telemetria Sentry</string>
+    <string name="pref_telemetry_off">Isso desativará a telemetria Sentry</string>
     <string name="pref_snow">Desativar Tema de Inverno</string>
     <string name="pref_snow_on">O tema de inverno está desativado</string>
-    <string name="pref_snow_off">Isto desativará o tema de inverno</string>
+    <string name="pref_snow_off">Isso desativará o tema de inverno</string>
     <string name="pref_experimental">Ativar Detecções Experimentais</string>
     <string name="pref_experimental_on">Detecções experimentais estão ativadas</string>
-    <string name="pref_experimental_off">Isto ativará detecções experimentais (é necessário reiniciar)</string>
+    <string name="pref_experimental_off">Isso ativará detecções experimentais (é necessário reiniciar)</string>
     <string name="pref_use_system_language">Usar Idioma do Sistema</string>
-    <string name="pref_use_system_language_on">O aplicativo usará o idioma do sistema</string>
-    <string name="pref_use_system_language_off">Isto usará o idioma padrão</string>
+    <string name="pref_use_system_language_on">O aplicativo irá usar o idioma do sistema</string>
+    <string name="pref_use_system_language_off">Isso usará o idioma padrão</string>
 
     <!-- Strings de Atualização -->
     <string name="failed_to_get_update_info">Falha ao buscar informações de atualização</string>
